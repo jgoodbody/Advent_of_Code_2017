@@ -12,4 +12,3 @@ def advent1(n):
     return stringSum
 
 print(advent1(input1))
-#answer = 1393
